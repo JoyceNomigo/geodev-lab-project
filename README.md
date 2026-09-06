@@ -1,7 +1,7 @@
 # My Project Brief
 
 ##The question
-which area in FCT sit in low-lying land 200m of waterways?.
+which area in FCT sit in low-lying land 200m of waterways?
 
 ##the data I Need
 -Waterway/drainage Data-street Map-https://download.geofabrik.de/africa/nigeria.html
