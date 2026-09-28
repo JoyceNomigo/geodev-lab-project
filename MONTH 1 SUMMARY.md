@@ -14,7 +14,7 @@ Expected only two or three peripheral wards to have significant overlap with the
 Out of 23,086 total buffered settlement points in AMAC, 4,654 fall within 200m of a waterway (approximately 20.16% of settlements). 
 
 ## What surprised me
-A higher proportion of  flooded settlements than expected sit directly in urban areas .
+A higher proportion of  flooded settlements than I expected sit directly in high traffic urban areas .
 
 ## Limitations, stated plainly
 - settlement data Was incomplete or inconsistent in spatial coverage across  wards.
@@ -22,7 +22,6 @@ A higher proportion of  flooded settlements than expected sit directly in urban 
 ## What I still need
 - Population per ward, to convert the area or settlement counts into total population affected, which is the metric that truly matters for planning.
 
-unfortunately, my pc crashed but this was what i was able to do before exporting 
 
-![MAP](.\project.png)
+![200M BUFFER](<200M WATER WAY BUFFER-1.png>)
 
