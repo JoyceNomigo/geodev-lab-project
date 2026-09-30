@@ -58,20 +58,20 @@ What I reprojected, what I clipped, what I checked, and what I fixed.
 - **Format:** GeoPackage
 - **CRS:** <EPSG:32632>
 - **Features:** 12
-- **Produced by:** JAVA script 
+- **Produced by:** python
 
 
 - **File:**  [Waterway.gpkg](../../../GEODEV_LAB/DATA/processed/Waterway.gpkg)
 - **Format:** GeoPackage
 - **CRS:** <EPSG:32632>
 - **Features:** 515
-- **Produced by:** JAVA script 
+- **Produced by:** python
 
 - **File:**  [GRID3 Data Hub](https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-extents-v4-1/about) and [AMAC_Settlement_extent.gpkg](../../../GEODEV_LAB/DATA/processed/AMAC_Settlement_extent.gpkg)
 - **Format:** GeoPackage
 - **CRS:** <EPSG:32632>
 - **Features:** 4654
-- **Produced by:** JAVA script 
+- **Produced by:** python 
 
  **Spatial Analysis**
 ---
