@@ -1,24 +1,53 @@
-\# My Project Brief   
-\#\#The question 
 
-Which area in AMAC Area Council FCT sits in low-lying land 200m of waterways?  
-Study area Municipal Area council Abuja.
+# Project brief
 
-**AMAC  boundary Data:**  
-Nigeria ward level data: GRID3 NGA – Operational Wards v3.0 (July 2026\)  
-(The GRID3 NGA \- Operational Wards v3.0 dataset provides operational ward boundary polygons for 24 states in Nigeria: Abia, Adamawa, Bauchi, Bayelsa, Borno, Delta, Enugu, FCT Abuja, Gombe, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Nasarawa, Niger, Ogun, Osun, Oyo, Sokoto, Yobe, and Zamfara. These boundaries are intended for operational use and have not yet undergone full validation by relevant government authorities.)
+**Week 1 deliverable.** GeoDev Lab Africa, Cohort One.
+Author: Joyce Nomigo
 
-LGA Level Data: GRID3 NGA – Operational LGA Boundaries (December 2020\)  
-(Nigeria Operational Local Government Area (LGA) Boundaries (administrative level 2\)  
-Nigeria country-wide operational LGA boundaries (administrative level 2). The LGA boundaries dataset was released in March 2021.)
+---
 
-State boundary Data: GRID3 NGA – Operational State Boundaries (December 2020\)  
-(Nigeria Operational State Boundaries (administrative level 1\)  
-Nigeria country-wide operational state boundaries (administrative level 1). Released in September 2020\.
+## 1. The question
 
-Waterways Data: OpenStreetMap contributors  –Waterways (OSM), ShapefileSHP (54.5M) Modified: 6 September 2026  
-Water features across the region: rivers, streams, canals, lakes, ponds, and water bodies. Useful for flood-risk modelling, watershed analysis, and environmental basemap context. Coverage reflects where volunteer mappers have been active. From OpenStreetMap, as Shapefile.
+> Which areas in AMAC lie within 200m of a watercourse?
 
-AMAC settlement extent : OSM PLUGIN in QGIS)
+## 2. Why this question
 
-DEM:USGS Earth explorer- [https://earthexplorer.usgs.gov/](https://earthexplorer.usgs.gov/)  
+> AMAC has experienced severe flooding this year, worse than in recent years, including in areas with no previous history of flooding. Areas close to waterways are more likely to be exposed when water levels rise. This analysis identifies which settlements sit within 200m of a waterway, so that intending visitors, residents and planners can tell which areas are more likely to flood.
+
+## 3. Study area
+
+> Abuja Municipal Area Council (AMAC), Federal Capital Territory, Nigeria.
+
+## 4. What I mean by the terms
+
+- **Watercourse / waterway:** any linear water feature (river, stream, canal, drain) mapped in OpenStreetMap under the waterway tag and downloaded with QuickOSM. Unmapped streams are not included.
+- **Within 200m:** any part of a settlement extent that falls inside a 200m buffer around a waterway. The buffer is measured in metres in a projected CRS (UTM zone 32N), not in degrees.
+- **Settlement:** a built-up area from the GRID3 Settlement Extents v4.1 dataset.
+- **Likely to flood:** I do not measure flooding. This project measures proximity to a waterway only. "Within 200m" means potentially exposed, not flooded.
+
+## 5. Datasets
+
+No link, no dataset. Every row below has a source you have opened yourself.
+
+|   | Dataset | What it gives me | Source |
+|---|---|---|---|
+| 1 | AMAC boundary | The study area outline and the ward boundaries used to compare areas | [GRID3 Data Hub](https://data.grid3.org/datasets/GRID3::grid3-nga-operational-lga-boundaries/about) |
+| 2 | Waterway | The line features that are buffered by 200m | QuickOSM plugin in QGIS (OpenStreetMap) |
+| 3 | Settlement extent | The built-up areas that are classed as inside or outside the buffer | [GRID3 Data Hub](https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-extents-v4-1/about) |
+
+## 6. What "done" looks like
+
+A map of AMAC showing settlement extent inside and outside the 200m waterway buffer, with ward boundaries, plus a table of the share of settlements within 200m for each ward. Anyone with QGIS and the three linked datasets should be able to reproduce it from the documented steps.
+
+## 7. Known risks
+
+**Incomplete settlement data.** Coverage looks uneven across wards, with large gaps in Gui, Jiwa, Orozo and Karshi 1. Wards with missing data will look safer than they are. I will state this on the map and in the results, and will not rank wards without that caveat.
+
+**Incomplete waterway data.** OpenStreetMap may be missing smaller streams and drains, which would understate exposure. I will note this as a limitation and compare against satellite imagery where I can.
+
+**Proximity is not flooding.** A 200m buffer ignores terrain, drainage and flood history. I will word results as "near waterways" and not "flooded", unless I add flood or elevation data.
+
+---
+
+**Status:** Week 1 complete. Data acquisition in Week 2, see
+[DATA NOTES.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/DATA%20NOTES.md) complete,week 3 Data preparation [Data preparation.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/Data%20preparation.md) Complete, week 4 Month 1 Summary [MONTH 1 SUMMARY.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/MONTH%201%20SUMMARY.md) Complete.
