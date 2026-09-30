@@ -13,23 +13,13 @@ Which areas in AMAC underlay  200m of a watercourse?.
 
 ## What's in here
 
-```
-<project-GEODEVLAB>/
-├── docs/
-│   ├── 01-project-brief.md
-│   ├── 02-data-notes.md
-│   ├── 03-data-preparation.md
-│   └── MONTH 1 SUMMARY.md
-├── data/
-│   ├── raw/                     original downloaded datasets
-│   │   ├── waterways.gpkg
-│   │   ├── settlements.gpkg
-│   │   └── wards.gpkg
-│   └── processed/               cleaned data and analysis outputs
-│       ├── settlements_200m_buffer.gpkg
-│       └── settlement_waterway_exposure.gpkg
-├── scripts/
-└── requirements.txt
+
+
+- [README.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/README.md)
+- [project-brief.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/Project%20Brief.md?plain=1)
+- [DATA NOTES.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/DATA%20NOTES.md)
+- [Data preparation.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/Data%20preparation.md) 
+- [MONTH 1 SUMMARY.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/MONTH%201%20SUMMARY.md)
  
 
 
