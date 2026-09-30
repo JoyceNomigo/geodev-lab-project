@@ -8,7 +8,7 @@ Author: Joyce Nomigo
 
 ## 1. The question
 
-> Which areas in AMAC lie within 200m of a watercourse?
+> Which areas in AMAC underlay  200m of a watercourse?
 
 ## 2. Why this question
 
