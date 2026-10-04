@@ -16,10 +16,11 @@ Which areas in AMAC underlay  200m of a watercourse?.
 
 
 - [README.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/README.md)
-- [project-brief.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/Project%20Brief.md?plain=1)
-- [DATA NOTES.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/DATA%20NOTES.md)
+- [Project-brief.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/Project%20Brief.md)
+
+- [Data Notes.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/Data%20Notes.md)
 - [Data preparation.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/Data%20preparation.md) 
-- [MONTH 1 SUMMARY.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/MONTH%201%20SUMMARY.md)
+- [Month One Summary.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/19d56fd01491f23111386ea6215fe73483f670a6/Month%20One%20Summary.md)
  
 
 
@@ -36,5 +37,5 @@ Which areas in AMAC underlay  200m of a watercourse?.
 
 ---
 
-<Joyce Nomigo> · GeoDev Lab Africa
+Joyce Nomigo · GeoDev Lab Africa
 Learn. Build. Collaborate. Transform.
