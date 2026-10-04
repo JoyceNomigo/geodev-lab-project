@@ -31,8 +31,8 @@ Which areas in AMAC underlay  200m of a watercourse?.
 - [x] Week 3, reprojected, clipped and quality checked
 - [x] Week 4, first spatial analysis, checked four ways
       
-- [x] Month 2, Preparation of environment and early python
-- [x] Week 5, setup python, vs code and the terminal. hello.py runs 
+## Month 2, Preparation of environment and early python
+- [x] Week 5, setup python, vs code and the terminal, hello.py runs 
 
 ---
 
