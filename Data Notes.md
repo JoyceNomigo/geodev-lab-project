@@ -77,12 +77,6 @@ with it.
 
 ---
 
-## 2. <Dataset name>
-
-<Repeat the block above for each dataset.>
-
----
-
 ## Cross-cutting problems
 
 **Everything is in EPSG:4326.** Ward boundary,settlement needs a projected CRS in metres. Reproject all three layers ( to EPSG:32632) before Carrying analysis, or the data will be applied in degrees.
