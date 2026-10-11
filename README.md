@@ -16,11 +16,23 @@ Which areas in AMAC underlay  200m of a watercourse?.
 
 
 - [README.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/README.md)
+  
 - [Project-brief.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/Project%20Brief.md)
 
 - [Data Notes.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/Data%20Notes.md)
 - [Data preparation.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/main/Data%20preparation.md) 
 - [Month One Summary.md](https://github.com/JoyceNomigo/geodev-lab-project/blob/19d56fd01491f23111386ea6215fe73483f670a6/Month%20One%20Summary.md)
+- [hello.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/b9d5d5579668f52301c3761e46205744b6082e5b/hello.py)
+- [check.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/b9d5d5579668f52301c3761e46205744b6082e5b/check.py)
+- [pyproject.toml](https://github.com/JoyceNomigo/geodev-lab-project/blob/b9d5d5579668f52301c3761e46205744b6082e5b/pyproject.toml)
+  
+- [uv.lock](https://github.com/JoyceNomigo/geodev-lab-project/blob/b9d5d5579668f52301c3761e46205744b6082e5b/uv.lock)
+  
+- [python Screen.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/b9d5d5579668f52301c3761e46205744b6082e5b/python%20Screen.png)
+- [week6.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/b9d5d5579668f52301c3761e46205744b6082e5b/week6.png)
+
+
+ 
  
 
 
@@ -33,8 +45,8 @@ Which areas in AMAC underlay  200m of a watercourse?.
 - [x] Week 4, first spatial analysis, checked four ways
       
 ## Month 2, Preparation of environment and early python
-- [x] Week 5, setup python, vs code and the terminal, hello.py runs 
-
+- [x] Week 5, setup python, vs code and the terminal, hello.py runs
+- [x] Week 6, setup The project with uv and added pandas, check.py prints and the pandas version.
 ---
 
 Joyce Nomigo · GeoDev Lab Africa
