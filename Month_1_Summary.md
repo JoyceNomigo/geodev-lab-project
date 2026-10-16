@@ -30,4 +30,6 @@ A larger share of settlements near waterways than expected appears in central ur
 - Population by ward, to estimate how many people may be affected; settlement counts alone are not population figures.
 - Flood history or elevation data, to assess actual flood exposure rather than proximity alone.
 
-![200M WATER WAY BUFFER-1.png](<C:\Users\DELL\Downloads\GEODEV_LAB\GOEDEV LAB GIT\200M WATER WAY BUFFER-1.png>)
+<img width="3507" height="2480" alt="200M WATER WAY BUFFER-1" src="https://github.com/user-attachments/assets/c5818dcc-a388-4a1a-935e-65b953f9050e" />
+
+)
