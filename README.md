@@ -11,6 +11,7 @@ Identifies which settlements in Abuja Municipal Area Council (AMAC) underlay 200
 Which areas in AMAC underlay  200m of a watercourse?.
 
 
+
 ## What's in here
 
 
@@ -30,6 +31,9 @@ Which areas in AMAC underlay  200m of a watercourse?.
   
 - [python Screen.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/b9d5d5579668f52301c3761e46205744b6082e5b/python%20Screen.png)
 - [week6.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/b9d5d5579668f52301c3761e46205744b6082e5b/week6.png)
+- [analyse.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/83fde8501d1747ead8bef899b2e9943a65d60105/analyse.py)
+- [wards.csv](https://github.com/JoyceNomigo/geodev-lab-project/blob/83fde8501d1747ead8bef899b2e9943a65d60105/wards.csv)
+- [week7.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/83fde8501d1747ead8bef899b2e9943a65d60105/Week7.png)
 
 
  
@@ -46,7 +50,8 @@ Which areas in AMAC underlay  200m of a watercourse?.
       
 ## Month 2, Preparation of environment and early python
 - [x] Week 5, setup python, vs code and the terminal, hello.py runs
-- [x] Week 6, setup The project with uv and added pandas, check.py prints and the pandas version.
+- [x] Week 6, setup The project with uv and added pandas, check.py prints and the pandas
+- [x]  Week 7, analyse.py reads wards.csv, converts each area and classified as larde or small
 ---
 
 Joyce Nomigo · GeoDev Lab Africa
