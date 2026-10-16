@@ -10,6 +10,8 @@ Author: Joyce Nomigo
 
 > Which areas in AMAC underlay  200m of a watercourse?
 
+![AMAC study area](AMAC%20STUDY%20AREA.jpg)
+
 ## 2. Why this question
 
 > AMAC has experienced severe flooding this year, worse than in recent years, including in areas with no previous history of flooding. Areas close to waterways are more likely to be exposed when water levels rise. This analysis identifies which settlements sit within 200m of a waterway, so that intending visitors, residents and planners can tell which areas are more likely to flood.
