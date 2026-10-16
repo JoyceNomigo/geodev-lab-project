@@ -10,7 +10,7 @@ Author: Joyce Nomigo
 
 > Which areas in AMAC underlay  200m of a watercourse?
 
-![AMAC study area](AMAC%20STUDY%20AREA.jpg)
+
 
 ## 2. Why this question
 
@@ -19,6 +19,8 @@ Author: Joyce Nomigo
 ## 3. Study area
 
 > Abuja Municipal Area Council (AMAC), Federal Capital Territory, Nigeria.
+
+![AMAC study area](AMAC%20STUDY%20AREA.jpg)
 
 ## 4. What I mean by the terms
 
