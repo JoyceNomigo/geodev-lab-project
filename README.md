@@ -34,7 +34,9 @@ Which areas in AMAC underlay  200m of a watercourse?.
 - [analyse.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/83fde8501d1747ead8bef899b2e9943a65d60105/analyse.py)
 - [wards.csv](https://github.com/JoyceNomigo/geodev-lab-project/blob/83fde8501d1747ead8bef899b2e9943a65d60105/wards.csv)
 - [week7.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/83fde8501d1747ead8bef899b2e9943a65d60105/Week7.png)
-
+- [week8.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/3e15478e039dc68224ad7a6585d080ba81ea47d5/week8.png)
+- [inspect_data.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/3e15478e039dc68224ad7a6585d080ba81ea47d5/inspect_data.py)
+- [my_data.csv](https://github.com/JoyceNomigo/geodev-lab-project/blob/3e15478e039dc68224ad7a6585d080ba81ea47d5/my_data.csv)
 
  
  
@@ -51,7 +53,8 @@ Which areas in AMAC underlay  200m of a watercourse?.
 ## Month 2, Preparation of environment and early python
 - [x] Week 5, setup python, vs code and the terminal, hello.py runs
 - [x] Week 6, setup The project with uv and added pandas, check.py prints and the pandas
-- [x]  Week 7, analyse.py reads wards.csv, converts each area and classified as larde or small
+- [x] Week 7, analyse.py reads wards.csv, converts each area and classified as larde or small
+- [x] Week 8, inspect_data.py summarises area in km2 and population in my_data.
 ---
 
 Joyce Nomigo · GeoDev Lab Africa
