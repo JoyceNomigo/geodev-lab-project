@@ -55,6 +55,7 @@ Which areas in AMAC underlay  200m of a watercourse?.
 - [x] Week 6, setup The project with uv and added pandas, check.py prints and the pandas
 - [x] Week 7, analyse.py reads wards.csv, converts each area and classified as larde or small
 - [x] Week 8, inspect_data.py summarises area in km2 and population in my_data.
+- [x] Week 9, Month 2 reflection: consolidation and refactoring went smooth and the code still runs and my result are same afer cleaning and comparing 
 ---
 
 Joyce Nomigo · GeoDev Lab Africa
