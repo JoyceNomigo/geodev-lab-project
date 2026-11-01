@@ -37,6 +37,8 @@ Which areas in AMAC underlay  200m of a watercourse?.
 - [week8.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/3e15478e039dc68224ad7a6585d080ba81ea47d5/week8.png)
 - [inspect_data.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/3e15478e039dc68224ad7a6585d080ba81ea47d5/inspect_data.py)
 - [my_data.csv](https://github.com/JoyceNomigo/geodev-lab-project/blob/3e15478e039dc68224ad7a6585d080ba81ea47d5/my_data.csv)
+- [summary.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/448c06a8450004a4ebd5ec7c270aee0d432c14f8/summary.py)
+- [week9.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/448c06a8450004a4ebd5ec7c270aee0d432c14f8/week09.png)
 
  
  
