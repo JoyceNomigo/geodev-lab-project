@@ -39,9 +39,15 @@ Which areas in AMAC underlay  200m of a watercourse?.
 - [my_data.csv](https://github.com/JoyceNomigo/geodev-lab-project/blob/3e15478e039dc68224ad7a6585d080ba81ea47d5/my_data.csv)
 - [summary.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/448c06a8450004a4ebd5ec7c270aee0d432c14f8/summary.py)
 - [week9.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/448c06a8450004a4ebd5ec7c270aee0d432c14f8/week09.png)
-
- 
- 
+- [csv_to_points.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/csv_to_points.py)
+ - [explore_layer.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/explore_layer.py)
+ - [explore_pandas.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/explore_pandas.py)
+ - [facilities_map.png](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/facilities_map.png)
+ - [filter_sort.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/filter_sort.py)
+ - [geom_props.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/geom_props.py)
+ - [join_population.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/join_population.py)
+ - [make_map.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/make_map.py)
+ - [save_outputs.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/save_outputs.py)
 
 
 

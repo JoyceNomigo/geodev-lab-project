@@ -1,7 +1,8 @@
 # Python environment and caches
 .venv/
-__pycache__/
-*.pyc
+__pycache__/Also commit any small file your challenge scripts read or write in data/, so the grader can run them. Never rasters.
+No screenshot is needed this month. The outputs your scripts write are the proof they ran.
+
 # Rasters and archives are large: keep them an your Laptop
 # and describe them in data_notes.md
 *.tif
