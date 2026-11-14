@@ -67,6 +67,9 @@ Which areas in AMAC underlay  200m of a watercourse?.
 
 ## Month 3: geospatial Python and automation 
 - [x] Week 10: GeoPandas. Loaded, checked, joined and mapped my data in code
+- [ ] Week 11: CRS and spatial operations. Reprojected to EPSG:
+32631 and measured 58.6km2.
+Suggested commit message: Week 11: reprojec
 ---
 
 Joyce Nomigo · GeoDev Lab Africa
