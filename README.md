@@ -66,7 +66,7 @@ Which areas in AMAC underlay  200m of a watercourse?.
 - [x] Week 9, Month 2 reflection: consolidation and refactoring went smooth and the code still runs and my result are same afer cleaning and comparing
 
 ## Month 3: geospatial Python and automation 
-- [x] Week 10: GeoPandas. Loaded, checked, joined and mapped my [layer name] in code
+- [x] Week 10: GeoPandas. Loaded, checked, joined and mapped my data in code
 ---
 
 Joyce Nomigo · GeoDev Lab Africa
