@@ -48,6 +48,14 @@ Which areas in AMAC underlay  200m of a watercourse?.
  - [join_population.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/join_population.py)
  - [make_map.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/make_map.py)
  - [save_outputs.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/2c7af6be29abccb55791fc202782b4628c4878ca/month-03/week-10/save_outputs.py)
+ - [Fix_geometry.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/92845918dcd29ec948b12ceb6ae15986369b01a8/month-03/week-11/Fix_geometry.p)
+ - [Area_wrong_right.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/92845918dcd29ec948b12ceb6ae15986369b01a8/month-03/week-11/Area_wrong_right.py)
+ - [clip_dissolve.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/92845918dcd29ec948b12ceb6ae15986369b01a8/month-03/week-11/clip_dissolve.py)
+ - [nearest.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/92845918dcd29ec948b12ceb6ae15986369b01a8/month-03/week-11/nearest.py)
+ - [one_point.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/92845918dcd29ec948b12ceb6ae15986369b01a8/month-03/week-11/one_point.py)
+ - [set_vs_to.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/92845918dcd29ec948b12ceb6ae15986369b01a8/month-03/week-11/set_vs_to.py)
+ - [spatial.ops.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/92845918dcd29ec948b12ceb6ae15986369b01a8/month-03/week-11/spatial.ops.py)
+ - 
 
 
 
@@ -67,7 +75,7 @@ Which areas in AMAC underlay  200m of a watercourse?.
 
 ## Month 3: geospatial Python and automation 
 - [x] Week 10: GeoPandas. Loaded, checked, joined and mapped my data in code
-- [ ] Week 11: CRS and spatial operations. Reprojected to EPSG:
+- [x] Week 11: CRS and spatial operations. Reprojected to EPSG:
 32631 and measured 58.6km2.
 Suggested commit message: Week 11: reprojec
 ---
