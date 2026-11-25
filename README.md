@@ -55,7 +55,12 @@ Which areas in AMAC underlay  200m of a watercourse?.
  - [one_point.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/92845918dcd29ec948b12ceb6ae15986369b01a8/month-03/week-11/one_point.py)
  - [set_vs_to.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/92845918dcd29ec948b12ceb6ae15986369b01a8/month-03/week-11/set_vs_to.py)
  - [spatial.ops.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/92845918dcd29ec948b12ceb6ae15986369b01a8/month-03/week-11/spatial.ops.py)
- - 
+ - [Inspect_raster.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/63aee5e5f4e01b0c1cc465a092ff7c07b789b16c/month-03/week-12/Inspect_raster.py)
+ - [ndvi.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/63aee5e5f4e01b0c1cc465a092ff7c07b789b16c/month-03/week-12/ndvi.py)
+ - [pixel_coords.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/63aee5e5f4e01b0c1cc465a092ff7c07b789b16c/month-03/week-12/pixel_coords.py)
+ - [read_values.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/63aee5e5f4e01b0c1cc465a092ff7c07b789b16c/month-03/week-12/read_values.py)
+ - [sample_pionts.py](https://github.com/JoyceNomigo/geodev-lab-project/blob/63aee5e5f4e01b0c1cc465a092ff7c07b789b16c/month-03/week-12/sample_pionts.py)
+ 
 
 
 
