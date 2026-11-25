@@ -82,7 +82,7 @@ Which areas in AMAC underlay  200m of a watercourse?.
 - [x] Week 10: GeoPandas. Loaded, checked, joined and mapped my data in code
 - [x] Week 11: CRS and spatial operations. Reprojected to EPSG:
 32631 and measured 58.6km2.
- - [x] Week 12: Rasters. Computed [your index] for 75,915km2 and summarised it per [polygon type].
+- [x] Week 12: Rasters. Computed NDVI for 75,915km2 and summarised it per ward.
       
 
 
